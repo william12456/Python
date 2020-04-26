@@ -1,0 +1,5 @@
+print ('Insira sua data de nascimento')
+dia = input ('Insira um dia ')
+mes = input ('Insira um mes ')
+ano = input ('Insira um ano ')
+print ('Você nasceu na data',dia,'/',mes,'/',ano)
